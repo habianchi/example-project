@@ -5,7 +5,7 @@ To start the project run:
 >$ node index.js
 ```
 
-###Authors
+### Authors
 
 - Gonzalo M. Rey
 - Hernan Bianchi
